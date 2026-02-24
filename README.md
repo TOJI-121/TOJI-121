@@ -1,9 +1,9 @@
 ⚡ THE-X <br>
 
-Founder & Lead Developer at LoopX
+Founder & Lead Developer at THEXSTUDIO
 
               I'm a Professional Web Developer dedicated to engineering high-performance digital experiences.
-              Currently, I am scaling LoopX, a startup agency focused on delivering next-generation
+              Currently, I am scaling THEXSTUDIO, a startup agency focused on delivering next-generation
               web solutions through clean architecture and superior UI/UX.
 
 🛠 Technical Specialization<br>
@@ -16,7 +16,7 @@ Founder & Lead Developer at LoopX
 
 🚀 Current Focus<br>
 
-             LoopX: Leading development and strategy for our flagship client projects.
+             THEXSTUDIO: Leading development and strategy for our flagship client projects.
 
              R&D: Exploring advanced frontend frameworks and cloud-native deployments.
 
